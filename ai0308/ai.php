@@ -51,7 +51,7 @@ function detectAndWrapCode($response) {
     return $response;
 }
 
-$apiKey = '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';
+$apiKey = 'your api key here';
 $responseMessage = '';
 $promptToShow = ''; // Initialize outside the IF to ensure scope
 
